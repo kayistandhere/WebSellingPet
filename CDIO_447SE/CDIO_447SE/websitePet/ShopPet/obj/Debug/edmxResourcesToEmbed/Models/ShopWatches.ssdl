@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShopWatchesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ChiTietHoaDon">
+    <Key>
+      <PropertyRef Name="ChiTietHoaDon" />
+    </Key>
+    <Property Name="ChiTietHoaDon" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaHoaDon" Type="int" />
+    <Property Name="MaSanPham" Type="int" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="TongTien" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="HangSanXuat">
+    <Key>
+      <PropertyRef Name="MaHangSX" />
+    </Key>
+    <Property Name="MaHangSX" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenHang" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="MaHoaDon" />
+    </Key>
+    <Property Name="MaHoaDon" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenKhachHang" Type="nvarchar" MaxLength="50" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="250" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="11" />
+    <Property Name="DiaChiGiaoHang" Type="nvarchar" MaxLength="500" />
+    <Property Name="ThoiGianGiaoHang" Type="datetime" />
+    <Property Name="NgayTao" Type="datetime" />
+    <Property Name="TrangThai" Type="bit" />
+    <Property Name="TongTien" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaHangSX" Type="int" />
+    <Property Name="TenSP" Type="nvarchar" MaxLength="250" />
+    <Property Name="GiaNhap" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Anh" Type="nvarchar" MaxLength="250" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="GiaBan" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="MoTa" Type="nvarchar" MaxLength="250" />
+    <Property Name="ChiTiet" Type="nvarchar(max)" />
+    <Property Name="NgayDang" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="MaTaiKhoan" />
+    </Key>
+    <Property Name="MaTaiKhoan" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenTaiKhoan" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MatKhau" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TinTuc">
+    <Key>
+      <PropertyRef Name="MaTin" />
+    </Key>
+    <Property Name="MaTin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TieuDe" Type="nvarchar" MaxLength="250" />
+    <Property Name="NoiDung" Type="nvarchar(max)" />
+    <Property Name="NguoiDang" Type="int" />
+    <Property Name="Anh" Type="nvarchar" MaxLength="350" />
+    <Property Name="NgayDang" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_ChiTietHoaDon_HoaDon">
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="0..1" />
+    <End Role="ChiTietHoaDon" Type="Self.ChiTietHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDon">
+        <PropertyRef Name="MaHoaDon" />
+      </Principal>
+      <Dependent Role="ChiTietHoaDon">
+        <PropertyRef Name="MaHoaDon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChiTietHoaDon_SanPham">
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="0..1" />
+    <End Role="ChiTietHoaDon" Type="Self.ChiTietHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ChiTietHoaDon">
+        <PropertyRef Name="MaSanPham" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SanPham_HangSanXuat">
+    <End Role="HangSanXuat" Type="Self.HangSanXuat" Multiplicity="0..1" />
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HangSanXuat">
+        <PropertyRef Name="MaHangSX" />
+      </Principal>
+      <Dependent Role="SanPham">
+        <PropertyRef Name="MaHangSX" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ShopWatchesModelStoreContainer">
+    <EntitySet Name="ChiTietHoaDon" EntityType="Self.ChiTietHoaDon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HangSanXuat" EntityType="Self.HangSanXuat" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HoaDon" EntityType="Self.HoaDon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SanPham" EntityType="Self.SanPham" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaiKhoan" EntityType="Self.TaiKhoan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TinTuc" EntityType="Self.TinTuc" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ChiTietHoaDon_HoaDon" Association="Self.FK_ChiTietHoaDon_HoaDon">
+      <End Role="HoaDon" EntitySet="HoaDon" />
+      <End Role="ChiTietHoaDon" EntitySet="ChiTietHoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChiTietHoaDon_SanPham" Association="Self.FK_ChiTietHoaDon_SanPham">
+      <End Role="SanPham" EntitySet="SanPham" />
+      <End Role="ChiTietHoaDon" EntitySet="ChiTietHoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SanPham_HangSanXuat" Association="Self.FK_SanPham_HangSanXuat">
+      <End Role="HangSanXuat" EntitySet="HangSanXuat" />
+      <End Role="SanPham" EntitySet="SanPham" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

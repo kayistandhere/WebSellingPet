@@ -1,0 +1,705 @@
+D:\Project\ShopWatches\ShopWatches\bin\ApplicationInsights.config
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\csc.exe
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\vbc.exe
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\VBCSCompiler.exe
+D:\Project\ShopWatches\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\ShopWatches\ShopWatches\bin\ShopWatches.dll.config
+D:\Project\ShopWatches\ShopWatches\bin\ShopWatches.dll
+D:\Project\ShopWatches\ShopWatches\bin\ShopWatches.pdb
+D:\Project\ShopWatches\ShopWatches\bin\Antlr3.Runtime.dll
+D:\Project\ShopWatches\ShopWatches\bin\EntityFramework.dll
+D:\Project\ShopWatches\ShopWatches\bin\EntityFramework.SqlServer.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.Web.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\ShopWatches\ShopWatches\bin\Newtonsoft.Json.dll
+D:\Project\ShopWatches\ShopWatches\bin\Owin.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Helpers.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Mvc.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Optimization.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Razor.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.WebPages.dll
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.WebPages.Razor.dll
+D:\Project\ShopWatches\ShopWatches\bin\WebGrease.dll
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.Web.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Helpers.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Mvc.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Optimization.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.Razor.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.WebPages.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+D:\Project\ShopWatches\ShopWatches\bin\System.Web.WebPages.Razor.xml
+D:\Project\ShopWatches\ShopWatches\bin\Antlr3.Runtime.pdb
+D:\Project\ShopWatches\ShopWatches\bin\Newtonsoft.Json.xml
+D:\Project\ShopWatches\ShopWatches\bin\EntityFramework.xml
+D:\Project\ShopWatches\ShopWatches\bin\EntityFramework.SqlServer.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\ShopWatches\ShopWatches\obj\Debug\ShopWatches.dll
+D:\Project\ShopWatches\ShopWatches\obj\Debug\ShopWatches.pdb
+D:\Project\ShopWatches\ShopWatches\obj\Debug\ShopWatches.csprojResolveAssemblyReference.cache
+D:\Project\ShopWatches\ShopWatches\bin\PagedList.dll
+D:\Project\ShopWatches\ShopWatches\bin\PagedList.Mvc.dll
+D:\Project\ShopWatches\ShopWatches\bin\PagedList.xml
+D:\Project\ShopWatches\ShopWatches\bin\PagedList.Mvc.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\ApplicationInsights.config
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\csc.exe
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\vbc.exe
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\VBCSCompiler.exe
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\ShopWatches.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\ShopWatches.pdb
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Antlr3.Runtime.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\EntityFramework.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\EntityFramework.SqlServer.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.Web.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Newtonsoft.Json.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Owin.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\PagedList.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\PagedList.Mvc.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Helpers.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Mvc.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Optimization.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Razor.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.WebPages.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.WebPages.Razor.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\WebGrease.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.Web.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\PagedList.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\PagedList.Mvc.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Helpers.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Mvc.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Optimization.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.Razor.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.WebPages.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\System.Web.WebPages.Razor.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Antlr3.Runtime.pdb
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Newtonsoft.Json.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\EntityFramework.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\EntityFramework.SqlServer.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\G\Bui Dat\ShopWatches\ShopWatches\obj\Debug\ShopWatches.csprojResolveAssemblyReference.cache
+D:\G\Bui Dat\ShopWatches\ShopWatches\obj\Debug\ShopWatches.dll
+D:\G\Bui Dat\ShopWatches\ShopWatches\obj\Debug\ShopWatches.pdb
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ApplicationInsights.config
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\csc.exe
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\vbc.exe
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.dll.config
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.pdb
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Antlr3.Runtime.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.SqlServer.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Web.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Newtonsoft.Json.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Owin.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.Mvc.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Helpers.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Mvc.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Optimization.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Razor.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\WebGrease.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Web.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.Mvc.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Helpers.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Mvc.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Optimization.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Razor.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Antlr3.Runtime.pdb
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Newtonsoft.Json.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.SqlServer.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csprojAssemblyReference.cache
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.CopyComplete
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.dll
+C:\Users\Tien Tai\Documents\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.pdb
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ApplicationInsights.config
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\csc.exe
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\vbc.exe
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\VBCSCompiler.exe
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.dll.config
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.pdb
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Antlr3.Runtime.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.SqlServer.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Web.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Newtonsoft.Json.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Owin.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.Mvc.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Helpers.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Mvc.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Optimization.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Razor.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Razor.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\WebGrease.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Web.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.Mvc.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Helpers.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Mvc.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Optimization.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Razor.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Razor.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Antlr3.Runtime.pdb
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Newtonsoft.Json.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.SqlServer.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.dll
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.pdb
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.CopyComplete
+C:\Users\MSI\Desktop\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.dll
+C:\Users\MSI\Desktop\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.pdb
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ApplicationInsights.config
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\csc.exe
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\vbc.exe
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\VBCSCompiler.exe
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.dll.config
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\ShopWatches.pdb
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Antlr3.Runtime.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.SqlServer.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Web.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Newtonsoft.Json.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Owin.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.Mvc.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Helpers.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Mvc.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Optimization.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Razor.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Razor.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\WebGrease.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.Web.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\PagedList.Mvc.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Helpers.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Mvc.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Optimization.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.Razor.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\System.Web.WebPages.Razor.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Antlr3.Runtime.pdb
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Newtonsoft.Json.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\EntityFramework.SqlServer.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.AssemblyReference.cache
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.CopyComplete
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.dll
+E:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.pdb
+D:\[DATN - TK10.1] Xây dựng website bán đồng hồ cho cửa hàng ShopWatch\Web shop dong ho\ShopWatches\obj\Debug\ShopWatches.csproj.AssemblyReference.cache
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\ApplicationInsights.config
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\csc.exe
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\vbc.exe
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\VBCSCompiler.exe
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\ShopWatches.dll.config
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\ShopWatches.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\ShopWatches.pdb
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Antlr3.Runtime.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\EntityFramework.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\EntityFramework.SqlServer.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.Web.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Newtonsoft.Json.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Owin.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\PagedList.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\PagedList.Mvc.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Helpers.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Mvc.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Optimization.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Razor.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.WebPages.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.WebPages.Razor.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\WebGrease.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.Web.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\PagedList.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\PagedList.Mvc.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Helpers.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Mvc.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Optimization.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.Razor.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.WebPages.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\System.Web.WebPages.Razor.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Antlr3.Runtime.pdb
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Newtonsoft.Json.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\EntityFramework.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\EntityFramework.SqlServer.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\obj\Debug\ShopWatches.csproj.AssemblyReference.cache
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\obj\Debug\ShopWatches.csproj.CopyComplete
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\obj\Debug\ShopWatches.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web shop quần áo\ShopWatches\obj\Debug\ShopWatches.pdb
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ApplicationInsights.config
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\csc.exe
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\vbc.exe
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\VBCSCompiler.exe
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ShopWatches.dll.config
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ShopWatches.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ShopWatches.pdb
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Antlr3.Runtime.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.SqlServer.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.Web.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Newtonsoft.Json.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Owin.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.Mvc.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Helpers.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Mvc.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Optimization.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Razor.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Razor.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\WebGrease.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.Web.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.Mvc.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Helpers.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Mvc.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Optimization.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Razor.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Razor.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Antlr3.Runtime.pdb
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Newtonsoft.Json.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.SqlServer.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.AssemblyReference.cache
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.CopyComplete
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.dll
+C:\Users\AsusVivobook\Downloads\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.pdb
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.AssemblyReference.cache
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.pdb
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ApplicationInsights.config
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\csc.exe
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\vbc.exe
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\VBCSCompiler.exe
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ShopWatches.dll.config
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ShopWatches.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\ShopWatches.pdb
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Antlr3.Runtime.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.SqlServer.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.Web.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Newtonsoft.Json.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Owin.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.Mvc.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Helpers.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Mvc.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Optimization.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Razor.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Razor.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\WebGrease.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.Web.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\PagedList.Mvc.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Helpers.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Mvc.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Optimization.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.Razor.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\System.Web.WebPages.Razor.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Antlr3.Runtime.pdb
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Newtonsoft.Json.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\EntityFramework.SqlServer.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE_NHÓM 1\CDIO_447SE_NHÓM 1\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.CopyComplete
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE\CDIO_447SE\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.AssemblyReference.cache
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE\CDIO_447SE\Web bán pet\ShopWatches\obj\Debug\ShopWatches.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE\CDIO_447SE\Web bán pet\ShopWatches\obj\Debug\ShopWatches.dll
+C:\Users\AsusVivobook\Desktop\DOAN\CDIO_447SE\CDIO_447SE\Web bán pet\ShopWatches\obj\Debug\ShopWatches.pdb

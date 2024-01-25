@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ShopWatchesModelStoreContainer" CdmEntityContainer="ShopWatchesEntities">
+    <EntitySetMapping Name="ChiTietHoaDons">
+      <EntityTypeMapping TypeName="ShopWatchesModel.ChiTietHoaDon">
+        <MappingFragment StoreEntitySet="ChiTietHoaDon">
+          <ScalarProperty Name="ChiTietHoaDon1" ColumnName="ChiTietHoaDon" />
+          <ScalarProperty Name="MaHoaDon" ColumnName="MaHoaDon" />
+          <ScalarProperty Name="MaSanPham" ColumnName="MaSanPham" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaiKhoans">
+      <EntityTypeMapping TypeName="ShopWatchesModel.TaiKhoan">
+        <MappingFragment StoreEntitySet="TaiKhoan">
+          <ScalarProperty Name="MaTaiKhoan" ColumnName="MaTaiKhoan" />
+          <ScalarProperty Name="TenTaiKhoan" ColumnName="TenTaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TinTucs">
+      <EntityTypeMapping TypeName="ShopWatchesModel.TinTuc">
+        <MappingFragment StoreEntitySet="TinTuc">
+          <ScalarProperty Name="MaTin" ColumnName="MaTin" />
+          <ScalarProperty Name="TieuDe" ColumnName="TieuDe" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+          <ScalarProperty Name="NguoiDang" ColumnName="NguoiDang" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+          <ScalarProperty Name="NgayDang" ColumnName="NgayDang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HoaDons">
+      <EntityTypeMapping TypeName="ShopWatchesModel.HoaDon">
+        <MappingFragment StoreEntitySet="HoaDon">
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="NgayTao" ColumnName="NgayTao" />
+          <ScalarProperty Name="ThoiGianGiaoHang" ColumnName="ThoiGianGiaoHang" />
+          <ScalarProperty Name="DiaChiGiaoHang" ColumnName="DiaChiGiaoHang" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="TenKhachHang" ColumnName="TenKhachHang" />
+          <ScalarProperty Name="MaHoaDon" ColumnName="MaHoaDon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SanPhams">
+      <EntityTypeMapping TypeName="ShopWatchesModel.SanPham">
+        <MappingFragment StoreEntitySet="SanPham">
+          <ScalarProperty Name="NgayDang" ColumnName="NgayDang" />
+          <ScalarProperty Name="ChiTiet" ColumnName="ChiTiet" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+          <ScalarProperty Name="GiaNhap" ColumnName="GiaNhap" />
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="MaHangSX" ColumnName="MaHangSX" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HangSanXuats">
+      <EntityTypeMapping TypeName="ShopWatchesModel.HangSanXuat">
+        <MappingFragment StoreEntitySet="HangSanXuat">
+          <ScalarProperty Name="TenHang" ColumnName="TenHang" />
+          <ScalarProperty Name="MaHangSX" ColumnName="MaHangSX" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShopWatchesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ChiTietHoaDon">
+    <Key>
+      <PropertyRef Name="ChiTietHoaDon1" />
+    </Key>
+    <Property Name="ChiTietHoaDon1" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaHoaDon" Type="Int32" />
+    <Property Name="MaSanPham" Type="Int32" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="TongTien" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="HoaDon" Relationship="ShopWatchesModel.FK_ChiTietHoaDon_HoaDon" FromRole="ChiTietHoaDon" ToRole="HoaDon" />
+    <NavigationProperty Name="SanPham" Relationship="ShopWatchesModel.FK_ChiTietHoaDon_SanPham" FromRole="ChiTietHoaDon" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="MaTaiKhoan" />
+    </Key>
+    <Property Name="MaTaiKhoan" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenTaiKhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TinTuc">
+    <Key>
+      <PropertyRef Name="MaTin" />
+    </Key>
+    <Property Name="MaTin" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TieuDe" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NguoiDang" Type="Int32" />
+    <Property Name="Anh" Type="String" MaxLength="350" FixedLength="false" Unicode="true" />
+    <Property Name="NgayDang" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="ShopWatchesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ChiTietHoaDons" EntityType="Self.ChiTietHoaDon" />
+    <EntitySet Name="TaiKhoans" EntityType="Self.TaiKhoan" />
+    <EntitySet Name="TinTucs" EntityType="Self.TinTuc" />
+    <EntitySet Name="HoaDons" EntityType="ShopWatchesModel.HoaDon" />
+    <AssociationSet Name="FK_ChiTietHoaDon_HoaDon" Association="ShopWatchesModel.FK_ChiTietHoaDon_HoaDon">
+      <End Role="HoaDon" EntitySet="HoaDons" />
+      <End Role="ChiTietHoaDon" EntitySet="ChiTietHoaDons" />
+    </AssociationSet>
+    <EntitySet Name="SanPhams" EntityType="ShopWatchesModel.SanPham" />
+    <AssociationSet Name="FK_ChiTietHoaDon_SanPham" Association="ShopWatchesModel.FK_ChiTietHoaDon_SanPham">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="ChiTietHoaDon" EntitySet="ChiTietHoaDons" />
+    </AssociationSet>
+    <EntitySet Name="HangSanXuats" EntityType="ShopWatchesModel.HangSanXuat" />
+    <AssociationSet Name="FK_SanPham_HangSanXuat" Association="ShopWatchesModel.FK_SanPham_HangSanXuat">
+      <End Role="HangSanXuat" EntitySet="HangSanXuats" />
+      <End Role="SanPham" EntitySet="SanPhams" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="MaHoaDon" />
+    </Key>
+    <Property Name="MaHoaDon" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenKhachHang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChiGiaoHang" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ThoiGianGiaoHang" Type="DateTime" Precision="3" />
+    <Property Name="NgayTao" Type="DateTime" Precision="3" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <Property Name="TongTien" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="ChiTietHoaDons" Relationship="ShopWatchesModel.FK_ChiTietHoaDon_HoaDon" FromRole="HoaDon" ToRole="ChiTietHoaDon" />
+  </EntityType>
+  <Association Name="FK_ChiTietHoaDon_HoaDon">
+    <End Type="ShopWatchesModel.HoaDon" Role="HoaDon" Multiplicity="0..1" />
+    <End Type="ShopWatchesModel.ChiTietHoaDon" Role="ChiTietHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDon">
+        <PropertyRef Name="MaHoaDon" />
+      </Principal>
+      <Dependent Role="ChiTietHoaDon">
+        <PropertyRef Name="MaHoaDon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaHangSX" Type="Int32" />
+    <Property Name="TenSP" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="GiaNhap" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Anh" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="GiaBan" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="MoTa" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="ChiTiet" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NgayDang" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="ChiTietHoaDons" Relationship="ShopWatchesModel.FK_ChiTietHoaDon_SanPham" FromRole="SanPham" ToRole="ChiTietHoaDon" />
+    <NavigationProperty Name="HangSanXuat" Relationship="ShopWatchesModel.FK_SanPham_HangSanXuat" FromRole="SanPham" ToRole="HangSanXuat" />
+  </EntityType>
+  <Association Name="FK_ChiTietHoaDon_SanPham">
+    <End Type="ShopWatchesModel.SanPham" Role="SanPham" Multiplicity="0..1" />
+    <End Type="ShopWatchesModel.ChiTietHoaDon" Role="ChiTietHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ChiTietHoaDon">
+        <PropertyRef Name="MaSanPham" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="HangSanXuat">
+    <Key>
+      <PropertyRef Name="MaHangSX" />
+    </Key>
+    <Property Name="MaHangSX" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenHang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SanPhams" Relationship="ShopWatchesModel.FK_SanPham_HangSanXuat" FromRole="HangSanXuat" ToRole="SanPham" />
+  </EntityType>
+  <Association Name="FK_SanPham_HangSanXuat">
+    <End Type="ShopWatchesModel.HangSanXuat" Role="HangSanXuat" Multiplicity="0..1" />
+    <End Type="ShopWatchesModel.SanPham" Role="SanPham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HangSanXuat">
+        <PropertyRef Name="MaHangSX" />
+      </Principal>
+      <Dependent Role="SanPham">
+        <PropertyRef Name="MaHangSX" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
